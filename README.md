@@ -15,7 +15,7 @@ https://github.com/kieker-monitoring/GGVIS
 
 ## Author
 
-- Daphné Larrivain <daphne.larrivain@ecole.ensicaen.fr>
+Built by the person behind this GitHub profile.
 
 ## About
 
